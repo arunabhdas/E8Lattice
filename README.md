@@ -97,7 +97,10 @@ Proceed ([y]/n)?
 After the packages have downloaded and extracted, one may activate the conda environment as below
 conda activate e8lattice
 One may also export the yml file of the conda environment with the below command
+
+```
 conda env export > environment.yml
+```
 
 * Deactivate conda virtual env
 ```
