@@ -12,6 +12,10 @@
 - Why do we need Jupyter notebooks?
 
 
+## Screenshots
+
+![Screenshot 1](https://raw.githubusercontent.com/arunabhdas/E8Lattice/main/screenshots/e8lattice_screenshot.png)
+
 ## Steps
 
 * Setup virtual environment
