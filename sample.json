@@ -1,0 +1,6 @@
+{
+    "Duration": 3,    // Float
+    "LOC": 2000000, // Float
+    "Position": "Engineer", // Engineer or Manager
+    "Salary": 4.0 // Ordinal 1,2,3,4,5
+}
