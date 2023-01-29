@@ -52,11 +52,14 @@ modified      /Users/coder/.bash_profile
 Open a new terminal to load the .bash_profile environment variables into your shell. Then, create a conda environment using the following command
 conda create --name e8lattice python=3.8 pip
 This should give us the below prompt 
+
+```
 ==> conda create --name e8lattice python=3.8 pip
+
 Collecting package metadata (current_repodata.json): done
 Solving environment: done
 
-## Package Plan ##
+Package Plan
 
   environment location: /opt/homebrew/Caskroom/miniforge/base/envs/e8lattice
 
@@ -74,7 +77,6 @@ The following packages will be downloaded:
                                            Total:        11.8 MB
 
 The following NEW packages will be INSTALLED:
-```
   bzip2              conda-forge/osx-arm64::bzip2-1.0.8-h3422bc3_4
   ca-certificates    conda-forge/osx-arm64::ca-certificates-2022.12.7-h4653dfc_0
   libffi             conda-forge/osx-arm64::libffi-3.4.2-h3422bc3_5
