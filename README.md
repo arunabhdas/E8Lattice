@@ -51,13 +51,20 @@ no change     /opt/homebrew/Caskroom/miniforge/base/etc/profile.d/conda.csh
 modified      /Users/coder/.bash_profile
 ```
 
-Open a new terminal to load the .bash_profile environment variables into your shell. Then, create a conda environment using the following command
-conda create --name e8lattice python=3.8 pip
-This should give us the below prompt 
+* Create local conda environment 
+
+Open a new terminal to load the .bash_profile environment variables into your shell. 
+
+Then, create a conda environment using the following command
+
 
 ```
 ==> conda create --name e8lattice python=3.8 pip
+```
 
+* Output 
+
+```
 Collecting package metadata (current_repodata.json): done
 Solving environment: done
 
